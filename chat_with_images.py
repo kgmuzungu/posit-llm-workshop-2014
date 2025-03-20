@@ -9,7 +9,7 @@ from PIL import Image
 from io import BytesIO
 import base64
 
-_ = load_dotenv()
+_ = load_dotenv("_cache/.env")
 
 google_genAI = genai.Client()
 
