@@ -4,4 +4,4 @@ This is a Shiny app demonstrating two LLM models talk to each other. One is seri
 
 Have fun!
 
-![](elephant.png)
+![](elephant.jpg)
